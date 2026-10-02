@@ -4,6 +4,10 @@
     {
       "src": "index.html",
       "use": "@vercel/static"
+    },
+    {
+      "src": "Screenshot 2026-10-02 173624.png",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
